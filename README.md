@@ -8,8 +8,6 @@ First installation
 In root folder
 ```bash
 npm install -g npm
-npm install -g truffle
-npm install -g ganache-cli
 
 cd app
 npm install web3
